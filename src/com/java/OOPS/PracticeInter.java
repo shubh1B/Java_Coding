@@ -15,7 +15,7 @@ class interchild implements I1{
      public void printname() {
         System.out.println("Ram");
     }
-   // private void roll(){}
+   // private void roll(){}--private method
 //    public void name(){
 //         System.out.println("overriden name");
 //    }
